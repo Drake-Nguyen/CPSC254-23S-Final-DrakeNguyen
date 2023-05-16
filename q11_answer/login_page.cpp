@@ -1,5 +1,6 @@
 #ifndef LOGIN_PAGE_H
 #define LOGIN_PAGE_H
+#include <string>
 
 // Function to display a random ad
 void displayAd();
